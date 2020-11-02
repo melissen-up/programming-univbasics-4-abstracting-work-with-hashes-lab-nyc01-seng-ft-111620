@@ -2,7 +2,6 @@ def my_hash_creator(key, value)
   hash_creator = {
     :key => value
   }
-  hash_creator
 end
 
 def read_from_hash(hash, key)
